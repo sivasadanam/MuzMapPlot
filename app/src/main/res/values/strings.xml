@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MuzMapPlot</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_key" translatable="false" >
+        AIzaSyDGDfVoLojwCvFxnn7ap1cMCk_pQVBphWs
+
+
+    </string>
+</resources>
